@@ -1,7 +1,7 @@
 
 # 🕵️ Python Honeypot
 
-A **realistic honeypot system** built in Python to simulate vulnerable network services and capture potential attacks for research, monitoring, and analysis.  
+A **honeypot system** built in Python to simulate vulnerable network services and capture potential attacks for research, monitoring, and analysis.  
 This project is designed for **educational use**, allowing students, researchers, and cybersecurity enthusiasts to observe attacker behavior in a safe, controlled environment.
 
 ---
