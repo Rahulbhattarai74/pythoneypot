@@ -1,6 +1,6 @@
 # 🕵️ Python Honeypot
 
-A **realistic honeypot** built in Python to simulate vulnerable services and log potential intrusions.  
+A **honeypot** built in Python to simulate vulnerable services and log potential intrusions.  
 This project is designed for research, learning, and monitoring malicious activity in a controlled environment.
 
 ---
